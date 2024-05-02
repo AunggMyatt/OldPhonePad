@@ -1,2 +1,2 @@
 # OldPhonePad
-For OldPhonePad Project with dials 
+For OldPhonePad Project with dials
