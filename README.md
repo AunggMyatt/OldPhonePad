@@ -1,28 +1,5 @@
 
 
-┌───────┬───────┬───────┐
-│       │       │       │
-│   1   │   2   │   3   │
-│  &'(  │  ABC  │  DEF  │
-│       │       │       │
-├───────┼───────┼───────┤
-│       │       │       │
-│   4   │   5   │   6   │
-│  GHI  │  JKL  │  MNO  │
-│       │       │       │
-├───────┼───────┼───────┤
-│       │       │       │
-│   7   │   8   │   9   │
-│ PQRS  │  TUV  │ WXYZ  │
-│       │       │       │
-├───────┼───────┼───────┤
-│       │       │       │
-│   *   │   0   │   #   │
-│   ←   │   ␣   │   →   │
-└───────┴───────┴───────┘
-
-
-
 # OldPhonePad
 For OldPhonePad Project with dials
 Here is an old phone keypad with alphabetical letters, a
